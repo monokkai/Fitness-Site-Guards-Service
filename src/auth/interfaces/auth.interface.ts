@@ -15,4 +15,5 @@ export interface ValidationResponse {
   valid: boolean;
   user?: TokenPayload;
   message?: string;
-} 
+}
+
